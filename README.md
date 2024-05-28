@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Ana Clara, I'm 17 years old and I'm in my last year of high school.
 <!--
 **cl4ara/cl4ara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
